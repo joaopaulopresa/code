@@ -1,0 +1,13 @@
+pandas==2.2.1
+langchain-core==0.1.32
+langchain-community==0.0.28
+langchain-openai==0.0.8
+python-dotenv==1.0.1
+langchain-together==0.0.2.post1
+rouge
+sacrebleu
+bert-score
+matplotlib
+llama-index-llms-openai
+llama-index
+spacy
